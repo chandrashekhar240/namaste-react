@@ -1,0 +1,32 @@
+{
+  "name": "lec2",
+  "version": "1.0.0",
+  "description": "this is lec2 of namaste react",
+  "keywords": [
+    "react"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "namaste react"
+  },
+  "license": "ISC",
+  "author": "charu",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "browserslist": [
+    "last 2 chrome version",
+    "last 2 firefox version",
+    "last 2 safari version"
+  ]
+}
